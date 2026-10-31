@@ -41,6 +41,3 @@ Contact-Managment-System/
 └── README.md
 ```
 
-## Author
-
-Ayush Kumar
